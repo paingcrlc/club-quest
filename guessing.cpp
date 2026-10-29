@@ -23,6 +23,6 @@ cout << "Number guessing game" << '\n'
             }
         }
         else
-            cout << "headshot";
+            cout << "correct";
     } while (num != guess);
 }
